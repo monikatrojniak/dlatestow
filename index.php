@@ -10,5 +10,9 @@ $y = 2;
 
 echo $x+$y;
 
+
 $z = $y-$x;
 echo $z;
+
+echo $x-$y;
+
