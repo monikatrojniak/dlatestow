@@ -16,6 +16,7 @@ echo $z;
 
 echo $x-$y;
 
+var_dump($tab);
 foreach($tab as $szukaj)
 {
 	echo $szukaj;
