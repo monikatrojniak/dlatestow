@@ -17,7 +17,7 @@ echo $z;
 
 echo $x-$y;
 
-foreach($tab as $zmienna)
+foreach($tab as $szukaj)
 {
-	
+	echo $szukaj;
 }
