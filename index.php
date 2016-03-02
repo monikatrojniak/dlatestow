@@ -4,7 +4,6 @@ php_info();
 $zmienna = 'testowa zmienna';
 
 echo $zmienna;
-$tab = array(1,25,45,214,789);
 
 $x = 1;
 $y = 2;
