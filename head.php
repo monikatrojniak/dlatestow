@@ -7,3 +7,6 @@ foreach($_SERVER as $header => $var)
 }
 ?>
 </ul>
+
+<?php
+echo "Dodanie jakiegos komunikatu";
