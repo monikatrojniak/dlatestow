@@ -1,5 +1,6 @@
 <ul>
-<?php 
+<?php
+echo "<h1>Wyświetlam zmienne serwerowe</h1>";
 foreach($_SERVER as $header => $var)
 {
 	//Show serwer vars
